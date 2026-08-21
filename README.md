@@ -1,4 +1,7 @@
-<div align="center">
+
+## ⚠️ 🔒 Important: Code Security Disclaimer
+
+> **The complete source code for this project is maintained in a Private Repository.**<div align="center">
 
 # 🚀 CodeForCareer  
 ### *AI-Powered E-Learning & Career Development Platform*
